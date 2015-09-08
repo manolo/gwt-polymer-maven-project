@@ -1,0 +1,7 @@
+<module>
+    <inherits name="com.google.gwt.user.User"/>
+    <entry-point class="com.example.myapp.client.MyApp"/>
+    <inherits name="com.vaadin.polymer.Elements"/>
+    
+    <collapse-all-properties value="true" />
+</module>
